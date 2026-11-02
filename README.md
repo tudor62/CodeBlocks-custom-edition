@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](new_title.png)
 <div align="center">
 
 # Code::Blocks Custom Edition v25.03 (Dark Optimized)
