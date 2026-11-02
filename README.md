@@ -11,9 +11,8 @@
 [![Languages RO / EN](https://img.shields.io/badge/languages-RO%20%7C%20EN-d73a49?style=for-the-badge)](#key-features)
 
 **English** · [Română](README_RO.md)
-
-</div>
 ![Logo](new_title.png)
+</div>
 
 ---
 
