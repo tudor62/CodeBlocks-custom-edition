@@ -1,0 +1,13 @@
+prefix=/c/Users/tudor/Desktop/CodeBlocks_modern_2026/cb-install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib/codeblocks/wxContribItems
+includedir=${prefix}/include/codeblocks/wxContribItems
+datarootdir = ${prefix}/share
+sharedir=${datarootdir}
+
+Name: wxSpeedButton
+Description: SpeedButton also used for the wxSmith Contrib Items
+Version: 25.03svn13644
+Libs: -L${libdir} -lwxspeedbutton
+Cflags: -I${includedir}/wxSpeedButton
+

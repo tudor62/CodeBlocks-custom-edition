@@ -1,0 +1,29 @@
+devcpploader.lo: devcpploader.cpp devcpploader.h \
+ ../../../src/include/ibaseloader.h ../../../src/include/settings.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/fileconf.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textfile.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textbuf.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/convauto.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/file.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filename.h
+devcpploader.h:
+../../../src/include/ibaseloader.h:
+../../../src/include/settings.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/fileconf.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textfile.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textbuf.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/convauto.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/file.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filename.h:

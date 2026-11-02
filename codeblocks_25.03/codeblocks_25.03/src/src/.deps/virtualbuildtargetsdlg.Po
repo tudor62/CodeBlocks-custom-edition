@@ -1,0 +1,32 @@
+virtualbuildtargetsdlg.o: virtualbuildtargetsdlg.cpp \
+ virtualbuildtargetsdlg.h C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wx.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checklst.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/button.h \
+ ../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/listbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/xrc/xmlres.h
+virtualbuildtargetsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wx.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checklst.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/button.h:
+../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/listbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/xrc/xmlres.h:

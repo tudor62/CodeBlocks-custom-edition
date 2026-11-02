@@ -1,0 +1,40 @@
+manageglobsdlg.o: manageglobsdlg.cpp manageglobsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/button.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/gbsizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/listctrl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/statline.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/control.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/statline.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/unordered_map editprojectglobsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbuttn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checklst.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h \
+ ../../src/include/cbproject.h C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h
+manageglobsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/button.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/gbsizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/listctrl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/statline.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/control.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/statline.h:
+C:/msys64/ucrt64/include/c++/16.1.0/unordered_map:
+editprojectglobsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbuttn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checklst.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+../../src/include/cbproject.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:

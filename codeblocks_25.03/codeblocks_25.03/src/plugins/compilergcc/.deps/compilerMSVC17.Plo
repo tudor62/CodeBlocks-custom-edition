@@ -1,0 +1,25 @@
+compilerMSVC17.lo: compilerMSVC17.cpp compilerMSVC17.h \
+ ../../../src/include/compiler.h C:/msys64/ucrt64/include/wx-3.2/wx/wx.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/regex.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/config.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/regconf.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/registry.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/buffer.h
+compilerMSVC17.h:
+../../../src/include/compiler.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wx.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/regex.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/config.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/regconf.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/registry.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/buffer.h:

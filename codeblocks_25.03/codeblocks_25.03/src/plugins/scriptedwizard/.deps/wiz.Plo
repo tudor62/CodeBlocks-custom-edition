@@ -1,0 +1,60 @@
+wiz.lo: wiz.cpp wiz.h ../../../src/include/cbplugin.h \
+ ../../../src/include/settings.h ../../../src/include/cbexception.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h wizpage.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wizard.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/event.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/generic/wizard.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/xrc/xmlres.h \
+ ../../../src/include/scripting/bindings/sc_utils.h \
+ ../../../src/include/scripting/include/squirrel.h \
+ ../../../src/include/scripting/include/sqconfig.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/string \
+ C:/msys64/ucrt64/include/c++/16.1.0/sstream \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdarg.h \
+ C:/msys64/ucrt64/include/stdarg.h \
+ C:/msys64/ucrt64/include/_mingw_stdarg.h \
+ C:/msys64/ucrt64/include/string.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/memory \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ ../../../src/include/scripting/bindings/sc_typeinfo_all.h \
+ ../../../src/include/cbeditor.h ../../../src/include/cbproject.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrimpl.cpp
+wiz.h:
+../../../src/include/cbplugin.h:
+../../../src/include/settings.h:
+../../../src/include/cbexception.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h:
+wizpage.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wizard.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/event.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/generic/wizard.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/xrc/xmlres.h:
+../../../src/include/scripting/bindings/sc_utils.h:
+../../../src/include/scripting/include/squirrel.h:
+../../../src/include/scripting/include/sqconfig.h:
+C:/msys64/ucrt64/include/c++/16.1.0/string:
+C:/msys64/ucrt64/include/c++/16.1.0/sstream:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdarg.h:
+C:/msys64/ucrt64/include/stdarg.h:
+C:/msys64/ucrt64/include/_mingw_stdarg.h:
+C:/msys64/ucrt64/include/string.h:
+C:/msys64/ucrt64/include/c++/16.1.0/memory:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+../../../src/include/scripting/bindings/sc_typeinfo_all.h:
+../../../src/include/cbeditor.h:
+../../../src/include/cbproject.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrimpl.cpp:

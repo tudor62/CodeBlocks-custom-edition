@@ -1,0 +1,58 @@
+occurrenceshighlighting.lo: occurrenceshighlighting.cpp \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/listctrl.h \
+ ../../../src/include/cbcolourmanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ ../../../src/include/manager.h ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/set occurrenceshighlighting.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wx.h ../../../src/include/cbplugin.h \
+ highlighter.h ../../../src/include/editor_hooks.h occurrencespanel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ occurrenceshighlightingconfigurationpanel.h
+../../../src/include/configurationpanel.h:
+../../../src/include/globals.h:
+../../../src/include/settings.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/listctrl.h:
+../../../src/include/cbcolourmanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+../../../src/include/manager.h:
+../../../src/include/cbstyledtextctrl.h:
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+occurrenceshighlighting.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wx.h:
+../../../src/include/cbplugin.h:
+highlighter.h:
+../../../src/include/editor_hooks.h:
+occurrencespanel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+occurrenceshighlightingconfigurationpanel.h:

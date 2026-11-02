@@ -1,0 +1,79 @@
+debuggermenu.o: debuggermenu.cpp debuggermenu.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/event.h \
+ ../../src/include/cbdebugger_interfaces.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h ../../src/include/settings.h \
+ ../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector ../../src/include/prep.h \
+ ../../src/include/manager.h ../../src/include/configmanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/algorithm \
+ C:/msys64/ucrt64/include/wx-3.2/wx/aui/aui.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/aui/framemanager.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/aui/dockart.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/pen.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/brush.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/aui/floatpane.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/minifram.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/minifram.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/frame.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/aui/auibar.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/control.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/aui/barartmsw.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/aui/auibook.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/aui/tabmdi.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/notebook.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/icon.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/mdi.h \
+ ../../src/include/cbstyledtextctrl.h \
+ ../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/set \
+ ../../src/include/debuggermanager.h
+debuggermenu.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/event.h:
+../../src/include/cbdebugger_interfaces.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../src/include/settings.h:
+../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+../../src/include/prep.h:
+../../src/include/manager.h:
+../../src/include/configmanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/algorithm:
+C:/msys64/ucrt64/include/wx-3.2/wx/aui/aui.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/aui/framemanager.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/aui/dockart.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/pen.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/brush.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/aui/floatpane.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/minifram.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/minifram.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/frame.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/aui/auibar.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/control.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/aui/barartmsw.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/aui/auibook.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/aui/tabmdi.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/notebook.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/icon.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/mdi.h:
+../../src/include/cbstyledtextctrl.h:
+../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+../../src/include/debuggermanager.h:

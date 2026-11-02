@@ -1,0 +1,31 @@
+msvcloader.lo: msvcloader.cpp C:/msys64/ucrt64/include/wx-3.2/wx/stream.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/tokenzr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h ../../../src/include/prep.h \
+ ../../../src/include/importers_globals.h ../../../src/include/settings.h \
+ msvcloader.h C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filename.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h \
+ ../../../src/include/ibaseloader.h \
+ ../../../src/include/compiletargetbase.h \
+ ../../../src/include/multiselectdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ ../../../src/include/scrollingdialog.h
+C:/msys64/ucrt64/include/wx-3.2/wx/stream.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/tokenzr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+../../../src/include/prep.h:
+../../../src/include/importers_globals.h:
+../../../src/include/settings.h:
+msvcloader.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filename.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:
+../../../src/include/ibaseloader.h:
+../../../src/include/compiletargetbase.h:
+../../../src/include/multiselectdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+../../../src/include/scrollingdialog.h:

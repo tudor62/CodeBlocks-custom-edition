@@ -1,0 +1,10 @@
+infopanel.lo: infopanel.cpp infopanel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h
+infopanel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h:

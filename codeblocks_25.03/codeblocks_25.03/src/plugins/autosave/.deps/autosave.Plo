@@ -1,0 +1,33 @@
+autosave.lo: autosave.cpp C:/msys64/ucrt64/include/c++/16.1.0/algorithm \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ ../../../src/include/settings.h C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/set \
+ ../../../src/include/projectloader.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h \
+ ../../../src/include/ibaseloader.h autosave.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/cbplugin.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h
+C:/msys64/ucrt64/include/c++/16.1.0/algorithm:
+../../../src/include/cbstyledtextctrl.h:
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+../../../src/include/settings.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+../../../src/include/projectloader.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:
+../../../src/include/ibaseloader.h:
+autosave.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/cbplugin.h:
+../../../src/include/configurationpanel.h:
+../../../src/include/globals.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:

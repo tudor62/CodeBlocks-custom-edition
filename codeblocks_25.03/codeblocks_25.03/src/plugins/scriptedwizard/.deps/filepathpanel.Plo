@@ -1,0 +1,20 @@
+filepathpanel.lo: filepathpanel.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filefn.h filepathpanel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/button.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checklst.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h
+C:/msys64/ucrt64/include/wx-3.2/wx/filefn.h:
+filepathpanel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/button.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checklst.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:

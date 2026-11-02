@@ -1,0 +1,5 @@
+dlgaboutplugin.o: dlgaboutplugin.cpp ../../src/include/cbplugin.h \
+ dlgaboutplugin.h ../../src/include/scrollingdialog.h
+../../src/include/cbplugin.h:
+dlgaboutplugin.h:
+../../src/include/scrollingdialog.h:

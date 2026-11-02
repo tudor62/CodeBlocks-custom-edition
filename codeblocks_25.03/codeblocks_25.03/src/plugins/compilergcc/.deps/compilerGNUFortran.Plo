@@ -1,0 +1,50 @@
+compilerGNUFortran.lo: compilerGNUFortran.cpp ../../../src/include/prep.h \
+ compilerGNUFortran.h ../../../src/include/compiler.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/regex.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/config.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/regconf.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/registry.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/buffer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/fileconf.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textfile.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textbuf.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/convauto.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/file.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filename.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msgdlg.h \
+ ../../../src/include/manager.h ../../../src/include/logmanager.h \
+ ../../../src/include/configmanager.h
+../../../src/include/prep.h:
+compilerGNUFortran.h:
+../../../src/include/compiler.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/regex.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/config.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/regconf.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/registry.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/buffer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/fileconf.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textfile.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textbuf.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/convauto.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/file.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filename.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msgdlg.h:
+../../../src/include/manager.h:
+../../../src/include/logmanager.h:
+../../../src/include/configmanager.h:

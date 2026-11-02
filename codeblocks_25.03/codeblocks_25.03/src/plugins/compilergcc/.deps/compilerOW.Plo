@@ -1,0 +1,43 @@
+compilerOW.lo: compilerOW.cpp ../../../src/include/logmanager.h \
+ ../../../src/include/manager.h compilerOW.h \
+ ../../../src/include/compiler.h compilerOWgenerator.h \
+ ../../../src/include/compilercommandgenerator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ ../../../src/include/settings.h ../../../src/include/compiletargetbase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/config.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/regconf.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/registry.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/buffer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filefn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/regex.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/utils.h
+../../../src/include/logmanager.h:
+../../../src/include/manager.h:
+compilerOW.h:
+../../../src/include/compiler.h:
+compilerOWgenerator.h:
+../../../src/include/compilercommandgenerator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+../../../src/include/settings.h:
+../../../src/include/compiletargetbase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/config.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/regconf.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/registry.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/buffer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filefn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/regex.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/utils.h:

@@ -1,0 +1,27 @@
+classwizarddlg.lo: classwizarddlg.cpp \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ ../../../src/include/settings.h C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/set \
+ C:/msys64/ucrt64/include/wx-3.2/wx/tokenzr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dirdlg.h classwizarddlg.h \
+ ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector
+../../../src/include/cbstyledtextctrl.h:
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+../../../src/include/settings.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+C:/msys64/ucrt64/include/wx-3.2/wx/tokenzr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dirdlg.h:
+classwizarddlg.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:

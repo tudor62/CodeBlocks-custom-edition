@@ -1,0 +1,24 @@
+disassemblydlg.o: disassemblydlg.cpp disassemblydlg.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h \
+ ../../src/include/cbdebugger_interfaces.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h ../../src/include/settings.h \
+ ../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map ../../src/include/prep.h \
+ ../../src/include/manager.h ../../src/include/configmanager.h \
+ ../../src/include/debuggermanager.h ../../src/include/filefilters.h
+disassemblydlg.h:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h:
+../../src/include/cbdebugger_interfaces.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../src/include/settings.h:
+../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+../../src/include/prep.h:
+../../src/include/manager.h:
+../../src/include/configmanager.h:
+../../src/include/debuggermanager.h:
+../../src/include/filefilters.h:

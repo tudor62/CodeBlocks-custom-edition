@@ -1,0 +1,95 @@
+gdb_driver.lo: gdb_driver.cpp gdb_driver.h debuggerdriver.h \
+ debugger_defs.h C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/deque \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/c++/16.1.0/unordered_map \
+ ../../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map ../../../src/include/prep.h \
+ ../../../src/include/settings.h ../../../src/include/manager.h \
+ ../../../src/include/configmanager.h ../../../src/include/cbplugin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/regex.h \
+ ../../../src/include/globals.h remotedebugging.h gdb_commands.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/tipwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/popupwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/tokenzr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ ../../../src/include/cbeditor.h \
+ ../../../src/include/cbdebugger_interfaces.h \
+ ../../../src/include/debuggermanager.h \
+ ../../../src/include/configmanager.h ../../../src/include/manager.h \
+ ../../../src/include/editormanager.h ../../../src/include/infowindow.h \
+ ../../../src/include/logmanager.h ../../../src/include/macrosmanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cinttypes \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstdint \
+ C:/msys64/ucrt64/include/inttypes.h C:/msys64/ucrt64/include/crtdefs.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdint.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h \
+ C:/msys64/ucrt64/include/stddef.h debuggergdb.h \
+ ../../../src/include/settings.h ../../../src/include/sdk_events.h \
+ ../../../src/include/loggers.h ../../../src/include/logger.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/font.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/ffile.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h \
+ ../../../src/include/pipedprocess.h debuggerstate.h parsewatchvalue.h \
+ debuggeroptionsdlg.h ../../../src/include/cygwin.h
+gdb_driver.h:
+debuggerdriver.h:
+debugger_defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/c++/16.1.0/deque:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/c++/16.1.0/unordered_map:
+../../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+../../../src/include/prep.h:
+../../../src/include/settings.h:
+../../../src/include/manager.h:
+../../../src/include/configmanager.h:
+../../../src/include/cbplugin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/regex.h:
+../../../src/include/globals.h:
+remotedebugging.h:
+gdb_commands.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/tipwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/popupwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/tokenzr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+../../../src/include/cbeditor.h:
+../../../src/include/cbdebugger_interfaces.h:
+../../../src/include/debuggermanager.h:
+../../../src/include/configmanager.h:
+../../../src/include/manager.h:
+../../../src/include/editormanager.h:
+../../../src/include/infowindow.h:
+../../../src/include/logmanager.h:
+../../../src/include/macrosmanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/cinttypes:
+C:/msys64/ucrt64/include/c++/16.1.0/cstdint:
+C:/msys64/ucrt64/include/inttypes.h:
+C:/msys64/ucrt64/include/crtdefs.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdint.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h:
+C:/msys64/ucrt64/include/stddef.h:
+debuggergdb.h:
+../../../src/include/settings.h:
+../../../src/include/sdk_events.h:
+../../../src/include/loggers.h:
+../../../src/include/logger.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/font.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/ffile.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+../../../src/include/pipedprocess.h:
+debuggerstate.h:
+parsewatchvalue.h:
+debuggeroptionsdlg.h:
+../../../src/include/cygwin.h:

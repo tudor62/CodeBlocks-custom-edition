@@ -1,0 +1,87 @@
+astyleplugin.lo: astyleplugin.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ ../../../src/include/settings.h C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/set astyleplugin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wx.h ../../../src/include/cbplugin.h \
+ ../../../src/include/settings.h astyleconfigdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h astylepredefinedstyles.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h formattersettings.h \
+ ../../../src/plugins/astyle/astyle/astyle.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cassert \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/assert.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cctype \
+ C:/msys64/ucrt64/include/c++/16.1.0/iostream \
+ C:/msys64/ucrt64/include/c++/16.1.0/memory \
+ C:/msys64/ucrt64/include/c++/16.1.0/string \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstring \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h \
+ C:/msys64/ucrt64/include/string.h asstreamiterator.h \
+ ../../../src/include/cbeditor.h
+C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h:
+../../../src/include/cbstyledtextctrl.h:
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+../../../src/include/settings.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+astyleplugin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wx.h:
+../../../src/include/cbplugin.h:
+../../../src/include/settings.h:
+astyleconfigdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+astylepredefinedstyles.h:
+../../../src/include/configurationpanel.h:
+../../../src/include/globals.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+formattersettings.h:
+../../../src/plugins/astyle/astyle/astyle.h:
+C:/msys64/ucrt64/include/c++/16.1.0/cassert:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h:
+C:/msys64/ucrt64/include/assert.h:
+C:/msys64/ucrt64/include/c++/16.1.0/cctype:
+C:/msys64/ucrt64/include/c++/16.1.0/iostream:
+C:/msys64/ucrt64/include/c++/16.1.0/memory:
+C:/msys64/ucrt64/include/c++/16.1.0/string:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/c++/16.1.0/cstring:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h:
+C:/msys64/ucrt64/include/string.h:
+asstreamiterator.h:
+../../../src/include/cbeditor.h:

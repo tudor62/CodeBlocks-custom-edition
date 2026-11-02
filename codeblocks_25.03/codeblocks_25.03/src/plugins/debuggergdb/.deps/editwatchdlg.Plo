@@ -1,0 +1,26 @@
+editwatchdlg.lo: editwatchdlg.cpp editwatchdlg.h \
+ ../../../src/include/scrollingdialog.h debugger_defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/deque \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/c++/16.1.0/unordered_map \
+ ../../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map ../../../src/include/prep.h \
+ ../../../src/include/settings.h ../../../src/include/manager.h \
+ ../../../src/include/configmanager.h ../../../src/include/cbplugin.h
+editwatchdlg.h:
+../../../src/include/scrollingdialog.h:
+debugger_defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/c++/16.1.0/deque:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/c++/16.1.0/unordered_map:
+../../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+../../../src/include/prep.h:
+../../../src/include/settings.h:
+../../../src/include/manager.h:
+../../../src/include/configmanager.h:
+../../../src/include/cbplugin.h:

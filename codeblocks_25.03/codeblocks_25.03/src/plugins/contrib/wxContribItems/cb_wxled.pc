@@ -1,0 +1,16 @@
+prefix=/c/Users/tudor/Desktop/CodeBlocks_modern_2026/cb-install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib/codeblocks/wxContribItems
+includedir=${prefix}/include/codeblocks/wxContribItems/wxled
+datarootdir = ${prefix}/share
+sharedir=${datarootdir}
+
+Name: wxSmithLed
+Description: LedCtrl(s) also used for the wxSmith Contrib Items
+Version: 25.03svn13644
+Libs: -L${libdir} -lwxled
+Cflags: -I${includedir}/gizmosled/include/ \
+		-I${includedir}/lcdwindow/include \
+		-I${includedir}/led/include \
+		-I${includedir}/ledpanel/include
+

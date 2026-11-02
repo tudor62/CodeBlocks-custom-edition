@@ -1,0 +1,52 @@
+recentitemslist.o: recentitemslist.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/docview.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/list.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dlist.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/utils.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/beforestd.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/algorithm \
+ C:/msys64/ucrt64/include/c++/16.1.0/iterator \
+ C:/msys64/ucrt64/include/c++/16.1.0/list \
+ C:/msys64/ucrt64/include/wx-3.2/wx/afterstd.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/frame.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filehistory.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/windowid.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/vector.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/print.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/iosfwrap.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/iosfwd recentitemslist.h \
+ ../../src/include/annoyingdialog.h ../../src/include/settings.h \
+ ../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h startherepage.h
+C:/msys64/ucrt64/include/wx-3.2/wx/docview.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/list.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dlist.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/utils.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/beforestd.h:
+C:/msys64/ucrt64/include/c++/16.1.0/algorithm:
+C:/msys64/ucrt64/include/c++/16.1.0/iterator:
+C:/msys64/ucrt64/include/c++/16.1.0/list:
+C:/msys64/ucrt64/include/wx-3.2/wx/afterstd.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/frame.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filehistory.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/windowid.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/vector.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/print.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/iosfwrap.h:
+C:/msys64/ucrt64/include/c++/16.1.0/iosfwd:
+recentitemslist.h:
+../../src/include/annoyingdialog.h:
+../../src/include/settings.h:
+../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h:
+startherepage.h:

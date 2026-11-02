@@ -1,0 +1,119 @@
+watchesdlg.o: watchesdlg.cpp C:/msys64/ucrt64/include/c++/16.1.0/numeric \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_iterator_base_funcs.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_numeric.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/concept_check.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/debug/debug.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/move.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/algorithm \
+ C:/msys64/ucrt64/include/wx-3.2/wx/clipbrd.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/event.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dataobj.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/vector.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/clipbrd.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/display.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/gdicmn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/vidmode.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/editors.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/window.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/propgrid.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/scrolwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/recguard.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/time.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/property.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/propgriddefs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashset.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/tokenzr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/font.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/validate.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/propgridiface.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/propgridpagestate.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/props.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filename.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/valtext.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbuttn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/editlbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h watchesdlg.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/wx-3.2/wx/popupwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/timer.h \
+ ../../src/include/cbdebugger_interfaces.h ../../src/include/settings.h \
+ ../../src/include/debuggermanager.h ../../src/include/prep.h \
+ ../../src/include/manager.h ../../src/include/configmanager.h \
+ ../../src/include/cbcolourmanager.h ../../src/include/debuggermanager.h
+C:/msys64/ucrt64/include/c++/16.1.0/numeric:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_iterator_base_funcs.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_numeric.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/concept_check.h:
+C:/msys64/ucrt64/include/c++/16.1.0/debug/debug.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/move.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/algorithm:
+C:/msys64/ucrt64/include/wx-3.2/wx/clipbrd.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/event.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dataobj.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/vector.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/clipbrd.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/display.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/gdicmn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/vidmode.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/editors.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/window.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/propgrid.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/scrolwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/recguard.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/time.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/property.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/propgriddefs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashset.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/tokenzr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/font.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/validate.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/propgridiface.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/propgridpagestate.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/propgrid/props.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filename.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/valtext.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbuttn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/editlbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+watchesdlg.h:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/wx-3.2/wx/popupwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/timer.h:
+../../src/include/cbdebugger_interfaces.h:
+../../src/include/settings.h:
+../../src/include/debuggermanager.h:
+../../src/include/prep.h:
+../../src/include/manager.h:
+../../src/include/configmanager.h:
+../../src/include/cbcolourmanager.h:
+../../src/include/debuggermanager.h:

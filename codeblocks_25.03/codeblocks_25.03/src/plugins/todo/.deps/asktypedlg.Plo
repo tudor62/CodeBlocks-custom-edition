@@ -1,0 +1,4 @@
+asktypedlg.lo: asktypedlg.cpp asktypedlg.h \
+ ../../../src/include/scrollingdialog.h
+asktypedlg.h:
+../../../src/include/scrollingdialog.h:

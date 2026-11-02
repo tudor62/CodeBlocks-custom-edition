@@ -1,0 +1,16 @@
+todosettingsdlg.lo: todosettingsdlg.cpp todosettingsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/settings.h
+todosettingsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+../../../src/include/configurationpanel.h:
+../../../src/include/globals.h:
+../../../src/include/settings.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/settings.h:

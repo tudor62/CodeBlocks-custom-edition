@@ -1,0 +1,10 @@
+genericsinglechoicelist.lo: genericsinglechoicelist.cpp \
+ genericsinglechoicelist.h C:/msys64/ucrt64/include/wx-3.2/wx/listbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h
+genericsinglechoicelist.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/listbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h:

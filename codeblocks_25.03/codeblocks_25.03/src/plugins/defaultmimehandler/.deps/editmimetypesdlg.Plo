@@ -1,0 +1,42 @@
+editmimetypesdlg.lo: editmimetypesdlg.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filedlg.h \
+ ../../../src/include/filefilters.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/settings.h editmimetypesdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h mimetypesarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wx.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h
+C:/msys64/ucrt64/include/wx-3.2/wx/filedlg.h:
+../../../src/include/filefilters.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/settings.h:
+editmimetypesdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+../../../src/include/configurationpanel.h:
+../../../src/include/globals.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+mimetypesarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wx.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:

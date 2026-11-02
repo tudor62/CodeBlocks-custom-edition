@@ -1,0 +1,32 @@
+editprojectglobsdlg.o: editprojectglobsdlg.cpp editprojectglobsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbuttn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checklst.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h \
+ ../../src/include/cbproject.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filefn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/button.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/image.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h
+editprojectglobsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbuttn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checklst.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+../../src/include/cbproject.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filefn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/button.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/image.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:

@@ -1,0 +1,24 @@
+debuggersettingspanel.o: debuggersettingspanel.cpp \
+ debuggersettingspanel.h debuggersettingsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/statline.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/control.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/statline.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/treebook.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bookctrl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/containr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/treebase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/vector.h
+debuggersettingspanel.h:
+debuggersettingsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/statline.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/control.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/statline.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/treebook.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bookctrl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/containr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/treebase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/vector.h:

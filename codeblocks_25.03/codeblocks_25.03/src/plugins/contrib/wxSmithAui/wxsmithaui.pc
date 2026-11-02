@@ -1,0 +1,15 @@
+prefix=/c/Users/tudor/Desktop/CodeBlocks_modern_2026/cb-install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib/wxSmithAui
+includedir=${prefix}/include/wxSmithAui
+datarootdir = ${prefix}/share
+sharedir=${datarootdir}
+
+Name: wxSmithAui
+Description: wxAUI support for wxSmith
+Version: 25.03svn13644
+Libs: -L${libdir}
+Cflags: -I${includedir} \
+			-I${includedir}/wxAuiManager \
+			-I${includedir}/wxAuiNotebook \
+			-I${includedir}/wxAuiToolBar

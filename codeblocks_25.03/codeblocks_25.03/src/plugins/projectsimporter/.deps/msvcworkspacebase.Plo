@@ -1,0 +1,8 @@
+msvcworkspacebase.lo: msvcworkspacebase.cpp msvcworkspacebase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/version.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h
+msvcworkspacebase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/version.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:

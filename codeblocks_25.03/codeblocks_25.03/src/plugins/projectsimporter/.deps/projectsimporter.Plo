@@ -1,0 +1,34 @@
+projectsimporter.lo: projectsimporter.cpp projectsimporter.h \
+ ../../../src/include/cbplugin.h devcpploader.h \
+ ../../../src/include/ibaseloader.h ../../../src/include/settings.h \
+ msvc7loader.h C:/msys64/ucrt64/include/wx-3.2/wx/string.h msvc10loader.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h msvc7workspaceloader.h \
+ ../../../src/include/ibaseworkspaceloader.h msvcworkspacebase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/version.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h msvcloader.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filename.h \
+ ../../../src/include/compiletargetbase.h msvcworkspaceloader.h \
+ ../../../src/include/importers_globals.h \
+ ../../../src/include/filefilters.h
+projectsimporter.h:
+../../../src/include/cbplugin.h:
+devcpploader.h:
+../../../src/include/ibaseloader.h:
+../../../src/include/settings.h:
+msvc7loader.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+msvc10loader.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:
+msvc7workspaceloader.h:
+../../../src/include/ibaseworkspaceloader.h:
+msvcworkspacebase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/version.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+msvcloader.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filename.h:
+../../../src/include/compiletargetbase.h:
+msvcworkspaceloader.h:
+../../../src/include/importers_globals.h:
+../../../src/include/filefilters.h:

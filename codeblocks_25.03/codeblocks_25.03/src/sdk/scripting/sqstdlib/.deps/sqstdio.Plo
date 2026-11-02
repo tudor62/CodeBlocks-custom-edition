@@ -1,0 +1,42 @@
+sqstdio.lo: sqstdio.cpp C:/msys64/ucrt64/include/c++/16.1.0/new \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/exception.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/new_except.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/exception_defines.h \
+ C:/msys64/ucrt64/include/stdio.h \
+ C:/msys64/ucrt64/include/corecrt_stdio_config.h \
+ C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
+ C:/msys64/ucrt64/include/_mingw_mac.h \
+ C:/msys64/ucrt64/include/_mingw_secapi.h \
+ C:/msys64/ucrt64/include/vadefs.h \
+ C:/msys64/ucrt64/include/_mingw_off_t.h \
+ C:/msys64/ucrt64/include/swprintf.inl \
+ C:/msys64/ucrt64/include/sec_api/stdio_s.h \
+ ../../../../src/include/scripting/include/squirrel.h \
+ ../../../../src/include/scripting/include/sqconfig.h \
+ ../../../../src/include/scripting/include/sqstdio.h sqstdstream.h
+C:/msys64/ucrt64/include/c++/16.1.0/new:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/os_defines.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/cpu_defines.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/exception.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/new_except.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/exception_defines.h:
+C:/msys64/ucrt64/include/stdio.h:
+C:/msys64/ucrt64/include/corecrt_stdio_config.h:
+C:/msys64/ucrt64/include/corecrt.h:
+C:/msys64/ucrt64/include/_mingw.h:
+C:/msys64/ucrt64/include/_mingw_mac.h:
+C:/msys64/ucrt64/include/_mingw_secapi.h:
+C:/msys64/ucrt64/include/vadefs.h:
+C:/msys64/ucrt64/include/_mingw_off_t.h:
+C:/msys64/ucrt64/include/swprintf.inl:
+C:/msys64/ucrt64/include/sec_api/stdio_s.h:
+../../../../src/include/scripting/include/squirrel.h:
+../../../../src/include/scripting/include/sqconfig.h:
+../../../../src/include/scripting/include/sqstdio.h:
+sqstdstream.h:

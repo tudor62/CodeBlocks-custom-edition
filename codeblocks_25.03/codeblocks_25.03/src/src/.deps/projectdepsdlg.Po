@@ -1,0 +1,4 @@
+projectdepsdlg.o: projectdepsdlg.cpp projectdepsdlg.h \
+ ../../src/include/scrollingdialog.h
+projectdepsdlg.h:
+../../src/include/scrollingdialog.h:

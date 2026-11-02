@@ -1,0 +1,12 @@
+prefix=/c/Users/tudor/Desktop/CodeBlocks_modern_2026/cb-install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/wxsmith
+datarootdir = ${prefix}/share
+sharedir=${datarootdir}
+
+Name: wxSmith
+Description: RAD-tool for the Code::Blocks IDE
+Version: 25.03svn13644
+Libs: -L${libdir} -lwxsmithlib
+Cflags: -I${includedir}

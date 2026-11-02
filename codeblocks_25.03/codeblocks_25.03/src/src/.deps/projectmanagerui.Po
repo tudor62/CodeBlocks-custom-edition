@@ -1,0 +1,122 @@
+projectmanagerui.o: projectmanagerui.cpp projectmanagerui.h \
+ ../../src/include/projectmanager.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/fswatcher.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/log.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/event.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/evtloop.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/utils.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/evtloopconsole.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/evtloop.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/window.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filename.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dir.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/fswatcher.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/timer.h ../../src/include/cbproject.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dnd.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dataobj.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/unordered_map \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ ../../src/include/wxstringhash.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h \
+ ../../src/include/annoyingdialog.h ../../src/include/settings.h \
+ ../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h \
+ ../../src/include/cbauibook.h ../../src/include/cbcolourmanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h ../../src/include/manager.h \
+ ../../src/include/confirmreplacedlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ ../../src/include/filefilters.h ../../src/include/filegroupsandmasks.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h ../../src/include/settings.h \
+ ../../src/include/macrosmanager.h ../../src/include/multiselectdlg.h \
+ projectdepsdlg.h ../../src/include/scrollingdialog.h \
+ ../../src/include/projectfileoptionsdlg.h projectoptionsdlg.h \
+ ../../src/include/projectsfilemasksdlg.h \
+ ../../src/include/filegroupsandmasks.h manageglobsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/button.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/gbsizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/listctrl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/statline.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/control.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/statline.h \
+ ../../src/include/projectloader.h ../../src/include/ibaseloader.h \
+ goto_file.h ../../src/include/incremental_select_helper.h \
+ startherepage.h
+projectmanagerui.h:
+../../src/include/projectmanager.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/fswatcher.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/log.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/event.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/evtloop.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/utils.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/evtloopconsole.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/evtloop.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/window.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filename.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dir.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/fswatcher.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/timer.h:
+../../src/include/cbproject.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dnd.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dataobj.h:
+C:/msys64/ucrt64/include/c++/16.1.0/unordered_map:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+../../src/include/wxstringhash.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h:
+../../src/include/annoyingdialog.h:
+../../src/include/settings.h:
+../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h:
+../../src/include/cbauibook.h:
+../../src/include/cbcolourmanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+../../src/include/manager.h:
+../../src/include/confirmreplacedlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+../../src/include/filefilters.h:
+../../src/include/filegroupsandmasks.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+../../src/include/settings.h:
+../../src/include/macrosmanager.h:
+../../src/include/multiselectdlg.h:
+projectdepsdlg.h:
+../../src/include/scrollingdialog.h:
+../../src/include/projectfileoptionsdlg.h:
+projectoptionsdlg.h:
+../../src/include/projectsfilemasksdlg.h:
+../../src/include/filegroupsandmasks.h:
+manageglobsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/button.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/gbsizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/listctrl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/statline.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/control.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/statline.h:
+../../src/include/projectloader.h:
+../../src/include/ibaseloader.h:
+goto_file.h:
+../../src/include/incremental_select_helper.h:
+startherepage.h:

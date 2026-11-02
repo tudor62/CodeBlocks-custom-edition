@@ -1,0 +1,12 @@
+compilererrors.lo: compilererrors.cpp compilererrors.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/compiler.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrimpl.cpp
+compilererrors.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/compiler.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrimpl.cpp:

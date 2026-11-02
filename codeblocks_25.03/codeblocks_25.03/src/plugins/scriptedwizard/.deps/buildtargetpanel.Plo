@@ -1,0 +1,16 @@
+buildtargetpanel.lo: buildtargetpanel.cpp buildtargetpanel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/combobox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h
+buildtargetpanel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/combobox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:

@@ -1,0 +1,59 @@
+todolistview.lo: todolistview.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wrapsizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ ../../../src/include/settings.h C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/set \
+ ../../../src/include/encodingdetector.h \
+ ../../../src/include/filemanager.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/fontmap.h \
+ ../../../src/include/editorcolourset.h todolistview.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/loggers.h ../../../src/include/logger.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/font.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/ffile.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h todo_parser.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h
+C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wrapsizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+../../../src/include/cbstyledtextctrl.h:
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+../../../src/include/settings.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+../../../src/include/encodingdetector.h:
+../../../src/include/filemanager.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/fontmap.h:
+../../../src/include/editorcolourset.h:
+todolistview.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/loggers.h:
+../../../src/include/logger.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/font.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/ffile.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+todo_parser.h:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:

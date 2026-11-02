@@ -1,0 +1,12 @@
+prefix=/c/Users/tudor/Desktop/CodeBlocks_modern_2026/cb-install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib/codeblocks/wxContribItems
+includedir=${prefix}/include/codeblocks/wxContribItems
+datarootdir = ${prefix}/share
+sharedir=${datarootdir}
+
+Name: wxChartCtrl
+Description: wxChartCtrl also used for the wxSmith Contrib Items
+Version: 25.03svn13644
+Libs: -L${libdir} -lwxchartctrl
+Cflags: -I${includedir}/wxchart/include

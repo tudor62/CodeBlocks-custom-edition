@@ -1,0 +1,15 @@
+printdlg.o: printdlg.cpp ../../src/include/cbstyledtextctrl.h \
+ ../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ ../../src/include/settings.h C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/set printdlg.h \
+ ../../src/include/scrollingdialog.h ../../src/include/printing_types.h
+../../src/include/cbstyledtextctrl.h:
+../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+../../src/include/settings.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+printdlg.h:
+../../src/include/scrollingdialog.h:
+../../src/include/printing_types.h:

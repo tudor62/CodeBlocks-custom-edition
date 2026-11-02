@@ -1,0 +1,43 @@
+debuggersettingsdlg.o: debuggersettingsdlg.cpp debuggersettingsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/statline.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/control.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/statline.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/treebook.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bookctrl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/containr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/treebase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/vector.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/button.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/font.h \
+ ../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h ../../src/include/prep.h \
+ ../../src/include/settings.h ../../src/include/manager.h \
+ ../../src/include/configmanager.h debuggersettingspanel.h \
+ debuggersettingscommonpanel.h
+debuggersettingsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/statline.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/control.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/statline.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/treebook.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bookctrl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/containr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/treebase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/vector.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/button.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/font.h:
+../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../src/include/prep.h:
+../../src/include/settings.h:
+../../src/include/manager.h:
+../../src/include/configmanager.h:
+debuggersettingspanel.h:
+debuggersettingscommonpanel.h:

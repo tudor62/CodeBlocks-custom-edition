@@ -1,0 +1,70 @@
+EmbeddedHtmlPanel.lo: EmbeddedHtmlPanel.cpp EmbeddedHtmlPanel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/html/htmlwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/window.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/scrolwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/config.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/regconf.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/registry.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/object.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/buffer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stopwatch.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/html/winpars.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/module.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/font.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/html/htmlpars.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/html/htmltag.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filesys.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashset.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/vector.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/fontenc.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/html/htmlcell.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/html/htmldefs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/brush.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/encconv.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/html/htmlfilt.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filename.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/image.h
+EmbeddedHtmlPanel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/html/htmlwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/window.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/scrolwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/config.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/confbase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/regconf.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/registry.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/object.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/buffer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/stopwatch.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/html/winpars.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/module.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/font.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/html/htmlpars.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/html/htmltag.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filesys.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashset.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/vector.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/fontenc.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/html/htmlcell.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/html/htmldefs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/brush.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/encconv.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/html/htmlfilt.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/filename.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/image.h:

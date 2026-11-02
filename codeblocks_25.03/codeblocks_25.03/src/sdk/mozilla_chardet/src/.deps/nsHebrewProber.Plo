@@ -1,0 +1,58 @@
+mozilla_chardet/src/nsHebrewProber.lo: \
+ mozilla_chardet/src/nsHebrewProber.cpp \
+ ../../src/sdk/mozilla_chardet/include/nsHebrewProber.h \
+ ../../src/sdk/mozilla_chardet/include/nsSBCharSetProber.h \
+ ../../src/sdk/mozilla_chardet/include/nsCharSetProber.h \
+ ../../src/sdk/mozilla_chardet/include/xpcom/base/nscore.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h \
+ C:/msys64/ucrt64/include/stddef.h C:/msys64/ucrt64/include/crtdefs.h \
+ C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
+ C:/msys64/ucrt64/include/_mingw_mac.h \
+ C:/msys64/ucrt64/include/_mingw_secapi.h \
+ C:/msys64/ucrt64/include/vadefs.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdint.h \
+ C:/msys64/ucrt64/include/stdint.h \
+ ../../src/sdk/mozilla_chardet/include/xpcom/base/nsError.h \
+ ../../src/sdk/mozilla_chardet/include/mfbt/mozilla/Likely.h \
+ ../../src/sdk/mozilla_chardet/include/mfbt/mozilla/TypedEnum.h \
+ ../../src/sdk/mozilla_chardet/include/mfbt/mozilla/Attributes.h \
+ ../../src/sdk/mozilla_chardet/include/mfbt/mozilla/Compiler.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstddef \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h \
+ C:/msys64/ucrt64/include/stdio.h \
+ C:/msys64/ucrt64/include/corecrt_stdio_config.h \
+ C:/msys64/ucrt64/include/_mingw_off_t.h \
+ C:/msys64/ucrt64/include/swprintf.inl \
+ C:/msys64/ucrt64/include/sec_api/stdio_s.h
+../../src/sdk/mozilla_chardet/include/nsHebrewProber.h:
+../../src/sdk/mozilla_chardet/include/nsSBCharSetProber.h:
+../../src/sdk/mozilla_chardet/include/nsCharSetProber.h:
+../../src/sdk/mozilla_chardet/include/xpcom/base/nscore.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h:
+C:/msys64/ucrt64/include/stddef.h:
+C:/msys64/ucrt64/include/crtdefs.h:
+C:/msys64/ucrt64/include/corecrt.h:
+C:/msys64/ucrt64/include/_mingw.h:
+C:/msys64/ucrt64/include/_mingw_mac.h:
+C:/msys64/ucrt64/include/_mingw_secapi.h:
+C:/msys64/ucrt64/include/vadefs.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdint.h:
+C:/msys64/ucrt64/include/stdint.h:
+../../src/sdk/mozilla_chardet/include/xpcom/base/nsError.h:
+../../src/sdk/mozilla_chardet/include/mfbt/mozilla/Likely.h:
+../../src/sdk/mozilla_chardet/include/mfbt/mozilla/TypedEnum.h:
+../../src/sdk/mozilla_chardet/include/mfbt/mozilla/Attributes.h:
+../../src/sdk/mozilla_chardet/include/mfbt/mozilla/Compiler.h:
+C:/msys64/ucrt64/include/c++/16.1.0/cstddef:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/os_defines.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/cpu_defines.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h:
+C:/msys64/ucrt64/include/stdio.h:
+C:/msys64/ucrt64/include/corecrt_stdio_config.h:
+C:/msys64/ucrt64/include/_mingw_off_t.h:
+C:/msys64/ucrt64/include/swprintf.inl:
+C:/msys64/ucrt64/include/sec_api/stdio_s.h:

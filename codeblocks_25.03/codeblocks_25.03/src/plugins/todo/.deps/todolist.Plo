@@ -1,0 +1,78 @@
+todolist.lo: todolist.cpp addtododlg.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bitset \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_throw.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/exception_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_throwfwd.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_algobase.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/string \
+ C:/msys64/ucrt64/include/c++/16.1.0/iosfwd \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/cxxabi_forced.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/functional_hash.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/scrollingdialog.h asktypedlg.h \
+ ../../../src/include/cbstyledtextctrl.h \
+ ../../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ ../../../src/include/settings.h C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/set \
+ ../../../src/include/editorcolourset.h todolist.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ ../../../src/include/cbplugin.h ../../../src/include/globals.h \
+ todolistview.h ../../../src/include/loggers.h \
+ ../../../src/include/logger.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/font.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/ffile.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h todo_parser.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h todosettingsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ ../../../src/include/settings.h
+addtododlg.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bitset:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_throw.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/exception_defines.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_throwfwd.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_algobase.h:
+C:/msys64/ucrt64/include/c++/16.1.0/string:
+C:/msys64/ucrt64/include/c++/16.1.0/iosfwd:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/cxxabi_forced.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/functional_hash.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/scrollingdialog.h:
+asktypedlg.h:
+../../../src/include/cbstyledtextctrl.h:
+../../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+../../../src/include/settings.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+../../../src/include/editorcolourset.h:
+todolist.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+../../../src/include/cbplugin.h:
+../../../src/include/globals.h:
+todolistview.h:
+../../../src/include/loggers.h:
+../../../src/include/logger.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/font.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/ffile.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+todo_parser.h:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+todosettingsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+../../../src/include/configurationpanel.h:
+../../../src/include/globals.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+../../../src/include/settings.h:

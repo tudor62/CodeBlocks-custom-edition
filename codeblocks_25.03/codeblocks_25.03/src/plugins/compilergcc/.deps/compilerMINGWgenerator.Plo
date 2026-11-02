@@ -1,0 +1,29 @@
+compilerMINGWgenerator.lo: compilerMINGWgenerator.cpp \
+ compilerMINGWgenerator.h ../../../src/include/compilercommandgenerator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ ../../../src/include/settings.h ../../../src/include/compiletargetbase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ ../../../src/include/cbexception.h ../../../src/include/cbproject.h \
+ ../../../src/include/compilerfactory.h ../../../src/include/compiler.h \
+ ../../../src/include/manager.h ../../../src/include/configmanager.h \
+ ../../../src/include/logmanager.h ../../../src/include/macrosmanager.h \
+ ../../../src/include/scriptingmanager.h
+compilerMINGWgenerator.h:
+../../../src/include/compilercommandgenerator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+../../../src/include/settings.h:
+../../../src/include/compiletargetbase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+../../../src/include/cbexception.h:
+../../../src/include/cbproject.h:
+../../../src/include/compilerfactory.h:
+../../../src/include/compiler.h:
+../../../src/include/manager.h:
+../../../src/include/configmanager.h:
+../../../src/include/logmanager.h:
+../../../src/include/macrosmanager.h:
+../../../src/include/scriptingmanager.h:

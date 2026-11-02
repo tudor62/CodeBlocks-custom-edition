@@ -1,0 +1,8 @@
+advancedcompileroptionsdlg.lo: advancedcompileroptionsdlg.cpp \
+ advancedcompileroptionsdlg.h ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/compiler.h
+advancedcompileroptionsdlg.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/compiler.h:

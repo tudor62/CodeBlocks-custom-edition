@@ -1,0 +1,43 @@
+msvc7workspaceloader.lo: msvc7workspaceloader.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stream.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h msvc7workspaceloader.h \
+ ../../../src/include/ibaseworkspaceloader.h msvcworkspacebase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/version.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h msvc7loader.h \
+ ../../../src/include/ibaseloader.h ../../../src/include/settings.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/importers_globals.h \
+ ../../../src/include/encodingdetector.h \
+ ../../../src/include/filemanager.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/fontmap.h \
+ ../../../src/include/filefilters.h
+C:/msys64/ucrt64/include/wx-3.2/wx/stream.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h:
+msvc7workspaceloader.h:
+../../../src/include/ibaseworkspaceloader.h:
+msvcworkspacebase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/version.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:
+msvc7loader.h:
+../../../src/include/ibaseloader.h:
+../../../src/include/settings.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/importers_globals.h:
+../../../src/include/encodingdetector.h:
+../../../src/include/filemanager.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/fontmap.h:
+../../../src/include/filefilters.h:

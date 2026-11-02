@@ -1,0 +1,25 @@
+threadsdlg.o: threadsdlg.cpp threadsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ ../../src/include/cbdebugger_interfaces.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h ../../src/include/settings.h \
+ ../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector ../../src/include/prep.h \
+ ../../src/include/manager.h ../../src/include/configmanager.h \
+ ../../src/include/cbcolourmanager.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ ../../src/include/debuggermanager.h
+threadsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+../../src/include/cbdebugger_interfaces.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../src/include/settings.h:
+../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+../../src/include/prep.h:
+../../src/include/manager.h:
+../../src/include/configmanager.h:
+../../src/include/cbcolourmanager.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+../../src/include/debuggermanager.h:

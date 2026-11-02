@@ -1,0 +1,32 @@
+msvc10loader.lo: msvc10loader.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/choicdlg.h \
+ ../../../src/include/tinyxml/tinyxml.h ../../../src/include/prep.h \
+ msvc7workspaceloader.h ../../../src/include/ibaseworkspaceloader.h \
+ msvcworkspacebase.h C:/msys64/ucrt64/include/wx-3.2/wx/version.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h msvc10loader.h \
+ ../../../src/include/ibaseloader.h ../../../src/include/settings.h \
+ ../../../src/include/multiselectdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ ../../../src/include/scrollingdialog.h \
+ ../../../src/include/importers_globals.h
+C:/msys64/ucrt64/include/wx-3.2/wx/choicdlg.h:
+../../../src/include/tinyxml/tinyxml.h:
+../../../src/include/prep.h:
+msvc7workspaceloader.h:
+../../../src/include/ibaseworkspaceloader.h:
+msvcworkspacebase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/version.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:
+msvc10loader.h:
+../../../src/include/ibaseloader.h:
+../../../src/include/settings.h:
+../../../src/include/multiselectdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+../../../src/include/scrollingdialog.h:
+../../../src/include/importers_globals.h:

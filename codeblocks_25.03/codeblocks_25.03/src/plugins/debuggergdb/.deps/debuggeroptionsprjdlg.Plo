@@ -1,0 +1,71 @@
+debuggeroptionsprjdlg.lo: debuggeroptionsprjdlg.cpp \
+ debuggeroptionsprjdlg.h C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ ../../../src/include/configurationpanel.h ../../../src/include/globals.h \
+ ../../../src/include/settings.h ../../../src/include/scrollingdialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/settings.h remotedebugging.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/wx-3.2/wx/xrc/xmlres.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/listbox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/button.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/choice.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h \
+ ../../../src/include/cbproject.h ../../../src/include/editpathdlg.h \
+ ../../../src/include/manager.h ../../../src/include/globals.h \
+ debuggergdb.h ../../../src/include/sdk_events.h \
+ ../../../src/include/cbplugin.h ../../../src/include/loggers.h \
+ ../../../src/include/logger.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/font.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/ffile.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h \
+ ../../../src/include/pipedprocess.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/regex.h debuggerstate.h \
+ debugger_defs.h C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/deque \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/c++/16.1.0/unordered_map \
+ ../../../src/include/debuggermanager.h ../../../src/include/prep.h \
+ ../../../src/include/manager.h ../../../src/include/configmanager.h
+debuggeroptionsprjdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+../../../src/include/configurationpanel.h:
+../../../src/include/globals.h:
+../../../src/include/settings.h:
+../../../src/include/scrollingdialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/settings.h:
+remotedebugging.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/wx-3.2/wx/xrc/xmlres.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/listbox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/button.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/choice.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/checkbox.h:
+../../../src/include/cbproject.h:
+../../../src/include/editpathdlg.h:
+../../../src/include/manager.h:
+../../../src/include/globals.h:
+debuggergdb.h:
+../../../src/include/sdk_events.h:
+../../../src/include/cbplugin.h:
+../../../src/include/loggers.h:
+../../../src/include/logger.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/font.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/ffile.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+../../../src/include/pipedprocess.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/regex.h:
+debuggerstate.h:
+debugger_defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/c++/16.1.0/deque:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/c++/16.1.0/unordered_map:
+../../../src/include/debuggermanager.h:
+../../../src/include/prep.h:
+../../../src/include/manager.h:
+../../../src/include/configmanager.h:

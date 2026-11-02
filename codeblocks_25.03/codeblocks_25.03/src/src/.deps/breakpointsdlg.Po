@@ -1,0 +1,31 @@
+breakpointsdlg.o: breakpointsdlg.cpp ../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h ../../src/include/prep.h \
+ ../../src/include/settings.h ../../src/include/manager.h \
+ ../../src/include/configmanager.h breakpointsdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ ../../src/include/cbdebugger_interfaces.h \
+ ../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/imaglist.h \
+ ../../src/include/cbstyledtextctrl.h \
+ ../../src/sdk/wxscintilla/include/wx/wxscintilla.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/set
+../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../src/include/prep.h:
+../../src/include/settings.h:
+../../src/include/manager.h:
+../../src/include/configmanager.h:
+breakpointsdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+../../src/include/cbdebugger_interfaces.h:
+../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/imaglist.h:
+../../src/include/cbstyledtextctrl.h:
+../../src/sdk/wxscintilla/include/wx/wxscintilla.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/longlong.h:
+C:/msys64/ucrt64/include/c++/16.1.0/set:

@@ -1,0 +1,14 @@
+openfileslistplugin.lo: openfileslistplugin.cpp openfileslistplugin.h \
+ ../../../src/include/cbplugin.h ../../../src/include/projectfile.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/functional \
+ ../../../src/include/tinyxml/tinyxml.h ../../../src/include/tinywxuni.h \
+ ../../../src/include/settings.h
+openfileslistplugin.h:
+../../../src/include/cbplugin.h:
+../../../src/include/projectfile.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+C:/msys64/ucrt64/include/c++/16.1.0/functional:
+../../../src/include/tinyxml/tinyxml.h:
+../../../src/include/tinywxuni.h:
+../../../src/include/settings.h:

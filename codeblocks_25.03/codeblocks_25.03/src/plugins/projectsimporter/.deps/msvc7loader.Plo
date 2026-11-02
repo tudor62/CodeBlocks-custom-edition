@@ -1,0 +1,23 @@
+msvc7loader.lo: msvc7loader.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/choicdlg.h \
+ ../../../src/include/tinyxml/tinyxml.h ../../../src/include/prep.h \
+ msvc7loader.h ../../../src/include/ibaseloader.h \
+ ../../../src/include/settings.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ ../../../src/include/multiselectdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ ../../../src/include/scrollingdialog.h \
+ ../../../src/include/importers_globals.h
+C:/msys64/ucrt64/include/wx-3.2/wx/choicdlg.h:
+../../../src/include/tinyxml/tinyxml.h:
+../../../src/include/prep.h:
+msvc7loader.h:
+../../../src/include/ibaseloader.h:
+../../../src/include/settings.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+../../../src/include/multiselectdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+../../../src/include/scrollingdialog.h:
+../../../src/include/importers_globals.h:

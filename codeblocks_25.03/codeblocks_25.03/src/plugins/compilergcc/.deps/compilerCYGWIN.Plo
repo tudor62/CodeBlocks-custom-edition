@@ -1,0 +1,10 @@
+compilerCYGWIN.lo: compilerCYGWIN.cpp compilerCYGWIN.h compilerMINGW.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ ../../../src/include/compiler.h ../../../src/include/cygwin.h \
+ ../../../src/include/settings.h
+compilerCYGWIN.h:
+compilerMINGW.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+../../../src/include/compiler.h:
+../../../src/include/cygwin.h:
+../../../src/include/settings.h:

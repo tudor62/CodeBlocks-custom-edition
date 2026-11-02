@@ -1,0 +1,15 @@
+compilerOWgenerator.lo: compilerOWgenerator.cpp \
+ ../../../src/include/compileoptionsbase.h compilerOWgenerator.h \
+ ../../../src/include/compilercommandgenerator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h \
+ ../../../src/include/settings.h ../../../src/include/compiletargetbase.h
+../../../src/include/compileoptionsbase.h:
+compilerOWgenerator.h:
+../../../src/include/compilercommandgenerator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dynarray.h:
+../../../src/include/settings.h:
+../../../src/include/compiletargetbase.h:

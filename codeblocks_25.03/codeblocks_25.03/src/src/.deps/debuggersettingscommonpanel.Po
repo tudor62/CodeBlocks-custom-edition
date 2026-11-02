@@ -1,0 +1,35 @@
+debuggersettingscommonpanel.o: debuggersettingscommonpanel.cpp \
+ debuggersettingscommonpanel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/fontdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/fontdata.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/font.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/colour.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/encinfo.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/fontdlg.h \
+ ../../src/include/debuggermanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector ../../src/include/prep.h \
+ ../../src/include/settings.h ../../src/include/manager.h \
+ ../../src/include/configmanager.h
+debuggersettingscommonpanel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/fontdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/fontdata.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/font.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/colour.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/encinfo.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/fontdlg.h:
+../../src/include/debuggermanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+../../src/include/prep.h:
+../../src/include/settings.h:
+../../src/include/manager.h:
+../../src/include/configmanager.h:

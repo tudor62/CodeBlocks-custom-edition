@@ -1,0 +1,13 @@
+goto_file.o: goto_file.cpp goto_file.h \
+ ../../src/include/incremental_select_helper.h \
+ ../../src/include/settings.h C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/event.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector
+goto_file.h:
+../../src/include/incremental_select_helper.h:
+../../src/include/settings.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/event.h:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:

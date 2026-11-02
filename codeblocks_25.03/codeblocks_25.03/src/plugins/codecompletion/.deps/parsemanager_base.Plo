@@ -1,0 +1,59 @@
+parsemanager_base.lo: parsemanager_base.cpp parsemanager_base.h \
+ C:/msys64/ucrt64/include/ctype.h C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/queue \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/requires_hosted.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/deque \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_heap.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_function.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_queue.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/concept_check.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/debug/debug.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/uses_allocator.h parser/token.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/set parser/tokentree.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/thread.h parser/token.h \
+ parser/searchtree.h ../../../src/include/prep.h parser/tokenizer.h \
+ ../../../src/include/configmanager.h ../../../src/include/filemanager.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/stack \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_stack.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/list parser/cclogger.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/memory \
+ ../../../src/include/cbexception.h ../../../src/include/logmanager.h
+parsemanager_base.h:
+C:/msys64/ucrt64/include/ctype.h:
+C:/msys64/ucrt64/include/c++/16.1.0/map:
+C:/msys64/ucrt64/include/c++/16.1.0/queue:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/requires_hosted.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h:
+C:/msys64/ucrt64/include/c++/16.1.0/deque:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_heap.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_function.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_queue.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/concept_check.h:
+C:/msys64/ucrt64/include/c++/16.1.0/debug/debug.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/uses_allocator.h:
+parser/token.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
+parser/tokentree.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/thread.h:
+parser/token.h:
+parser/searchtree.h:
+../../../src/include/prep.h:
+parser/tokenizer.h:
+../../../src/include/configmanager.h:
+../../../src/include/filemanager.h:
+C:/msys64/ucrt64/include/c++/16.1.0/stack:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_stack.h:
+C:/msys64/ucrt64/include/c++/16.1.0/list:
+parser/cclogger.h:
+C:/msys64/ucrt64/include/c++/16.1.0/memory:
+../../../src/include/cbexception.h:
+../../../src/include/logmanager.h:

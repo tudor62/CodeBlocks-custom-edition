@@ -1,0 +1,21 @@
+compilerflagdlg.lo: compilerflagdlg.cpp ../../../src/include/prep.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/tglbtn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/event.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/anybutton.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/tglbtn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h compilerflagdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ ../../../src/include/compileroptions.h
+../../../src/include/prep.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/tglbtn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/event.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/anybutton.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/tglbtn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbndl.h:
+compilerflagdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+../../../src/include/compileroptions.h:

@@ -1,0 +1,34 @@
+msvcworkspaceloader.lo: msvcworkspaceloader.cpp \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stream.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h msvcworkspaceloader.h \
+ ../../../src/include/ibaseworkspaceloader.h msvcworkspacebase.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/version.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h \
+ ../../../src/include/importers_globals.h ../../../src/include/settings.h \
+ ../../../src/include/filefilters.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h
+C:/msys64/ucrt64/include/wx-3.2/wx/stream.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/progdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/generic/progdlgg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/dialog.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/weakref.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/progdlg.h:
+msvcworkspaceloader.h:
+../../../src/include/ibaseworkspaceloader.h:
+msvcworkspacebase.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/version.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/arrstr.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/hashmap.h:
+../../../src/include/importers_globals.h:
+../../../src/include/settings.h:
+../../../src/include/filefilters.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:

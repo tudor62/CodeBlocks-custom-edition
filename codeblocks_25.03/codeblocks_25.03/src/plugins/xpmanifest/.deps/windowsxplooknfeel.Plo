@@ -1,0 +1,4 @@
+windowsxplooknfeel.lo: windowsxplooknfeel.cpp windowsxplooknfeel.h \
+ ../../../src/include/cbplugin.h
+windowsxplooknfeel.h:
+../../../src/include/cbplugin.h:

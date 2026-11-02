@@ -1,0 +1,72 @@
+scriptconsole.o: scriptconsole.cpp scriptconsole.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/wx.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bmpbuttn.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/combobox.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/panel.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h \
+ ../../src/include/scripting/include/squirrel.h \
+ ../../src/include/scripting/include/sqconfig.h \
+ ../../src/include/scripting/bindings/sc_utils.h \
+ ../../src/include/cbexception.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/string \
+ C:/msys64/ucrt64/include/c++/16.1.0/sstream \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdarg.h \
+ C:/msys64/ucrt64/include/stdarg.h \
+ C:/msys64/ucrt64/include/_mingw_stdarg.h \
+ C:/msys64/ucrt64/include/string.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/memory \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/wx-3.2/wx/filedlg.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/image.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/intl.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/settings.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h
+scriptconsole.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wxprec.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/winundef.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/chartype.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapwin.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/private.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcctl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/wrapcdlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/msw/missing.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/wx.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bmpbuttn.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/combobox.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/panel.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/sizer.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/stattext.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/textctrl.h:
+../../src/include/scripting/include/squirrel.h:
+../../src/include/scripting/include/sqconfig.h:
+../../src/include/scripting/bindings/sc_utils.h:
+../../src/include/cbexception.h:
+C:/msys64/ucrt64/include/c++/16.1.0/string:
+C:/msys64/ucrt64/include/c++/16.1.0/sstream:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdarg.h:
+C:/msys64/ucrt64/include/stdarg.h:
+C:/msys64/ucrt64/include/_mingw_stdarg.h:
+C:/msys64/ucrt64/include/string.h:
+C:/msys64/ucrt64/include/c++/16.1.0/memory:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
+C:/msys64/ucrt64/include/wx-3.2/wx/filedlg.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/artprov.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/bitmap.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/image.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/intl.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/settings.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:

@@ -1,0 +1,5 @@
+.objs32_64/
+*.gch
+bin/
+obj/
+*.exe

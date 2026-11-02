@@ -1,0 +1,12 @@
+compiler_defs.lo: compiler_defs.cpp compiler_defs.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/string.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/list.h \
+ ../../../src/include/cbproject.h \
+ ../../../src/include/projectbuildtarget.h \
+ C:/msys64/ucrt64/include/wx-3.2/wx/listimpl.cpp
+compiler_defs.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/string.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/list.h:
+../../../src/include/cbproject.h:
+../../../src/include/projectbuildtarget.h:
+C:/msys64/ucrt64/include/wx-3.2/wx/listimpl.cpp:

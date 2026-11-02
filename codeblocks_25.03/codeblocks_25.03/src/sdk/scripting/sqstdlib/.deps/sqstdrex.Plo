@@ -1,0 +1,29 @@
+sqstdrex.lo: sqstdrex.cpp \
+ ../../../../src/include/scripting/include/squirrel.h \
+ ../../../../src/include/scripting/include/sqconfig.h \
+ C:/msys64/ucrt64/include/string.h C:/msys64/ucrt64/include/crtdefs.h \
+ C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
+ C:/msys64/ucrt64/include/_mingw_mac.h \
+ C:/msys64/ucrt64/include/_mingw_secapi.h \
+ C:/msys64/ucrt64/include/vadefs.h \
+ C:/msys64/ucrt64/include/corecrt_memory.h \
+ C:/msys64/ucrt64/include/sec_api/string_s.h \
+ C:/msys64/ucrt64/include/ctype.h \
+ C:/msys64/ucrt64/include/corecrt_wctype.h \
+ C:/msys64/ucrt64/include/setjmp.h \
+ ../../../../src/include/scripting/include/sqstdstring.h
+../../../../src/include/scripting/include/squirrel.h:
+../../../../src/include/scripting/include/sqconfig.h:
+C:/msys64/ucrt64/include/string.h:
+C:/msys64/ucrt64/include/crtdefs.h:
+C:/msys64/ucrt64/include/corecrt.h:
+C:/msys64/ucrt64/include/_mingw.h:
+C:/msys64/ucrt64/include/_mingw_mac.h:
+C:/msys64/ucrt64/include/_mingw_secapi.h:
+C:/msys64/ucrt64/include/vadefs.h:
+C:/msys64/ucrt64/include/corecrt_memory.h:
+C:/msys64/ucrt64/include/sec_api/string_s.h:
+C:/msys64/ucrt64/include/ctype.h:
+C:/msys64/ucrt64/include/corecrt_wctype.h:
+C:/msys64/ucrt64/include/setjmp.h:
+../../../../src/include/scripting/include/sqstdstring.h:
