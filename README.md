@@ -1,4 +1,4 @@
-![Logo](new_title.png)
+
 <div align="center">
 
 # Code::Blocks Custom Edition v25.03 (Dark Optimized)
@@ -13,6 +13,7 @@
 **English** · [Română](README_RO.md)
 
 </div>
+![Logo](new_title.png)
 
 ---
 
